@@ -1,0 +1,16 @@
+{
+  "name": "book-mouse",
+  "version": "1.0.0",
+  "description": "A minimal ISBN validator named after a small book-loving animal",
+  "main": "bookMouse.js",
+  "scripts": {
+    "start": "node bookMouse.js"
+  },
+  "keywords": [
+    "isbn",
+    "validator",
+    "mouse"
+  ],
+  "author": "",
+  "license": "MIT"
+}
